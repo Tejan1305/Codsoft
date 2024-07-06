@@ -1,4 +1,4 @@
-#CodSoft Internship Tasks
+# CodSoft Internship Tasks
 Overview
 Welcome to the CodSoft Internship Tasks repository! This repository contains the tasks assigned during my internship at CodSoft. The purpose of this project is to showcase the work done during the internship and provide a detailed explanation of each task.
 
@@ -17,25 +17,20 @@ Getting Started
 To get started with the tasks, follow the instructions below:
 
 Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/Tejan1305/Codsoft.git
 Navigate to the project directory:
 
-bash
-Copy code
+Navigate to the project directory:
 cd codsoft-internship-tasks
+
 Install dependencies (if any):
-
-bash
-Copy code
- Example for Python projects
 pip install -r requirements.txt
+
+
 Run the project:
-
-
 python main.py
+
+
 Task Details
 Task 1: Task Title
 Description: Provide a brief overview of the task.
